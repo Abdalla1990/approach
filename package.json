@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "scss": "node-sass --watch build/scss/style.scss -o build/css",
     "start-dev": "nodemon server.js & npm run scss",
-    "start": "node setver.js"
+    "start": "node server.js"
   },
   "author": "",
   "license": "ISC",
