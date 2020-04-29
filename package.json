@@ -1,0 +1,21 @@
+{
+  "name": "approach",
+  "version": "1.0.0",
+  "description": "Thank you for using our template!",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "scss": "node-sass --watch build/scss/style.scss -o build/css",
+    "start-dev": "nodemon server.js & npm run scss",
+    "start": "node setver.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "node-sass": "^4.14.0",
+    "nodemailer": "^6.4.6"
+  }
+}
