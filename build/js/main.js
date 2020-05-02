@@ -367,7 +367,6 @@ jQuery(document).ready(function ($) {
 						<li id="Portfolio-page"><a href="/portfolio" class="nav-link">Portfolio</a></li>
 						<li id="About-page"><a href="/about" class="nav-link">About</a></li>
 						<li id="Services-page"><a href="/services" class="nav-link">Services</a></li>
-						<li id="Blog-page"><a href="/blog" class="nav-link">Blog</a></li>
 						<li id="Contact-page"><a href="/contact" class="nav-link">Contact</a></li>
 					</ul>
 					</nav>`;
@@ -399,15 +398,13 @@ jQuery(document).ready(function ($) {
 							<div class="col-md-4 ml-auto">
 								<ul class="list-unstyled links">
 								<li>Contact Info.</li>
-								<li>hello@mydomain.com</li>
-								<li>+1 829 2293 382</li>
-								<li><a href="#">Support</a></li>
+								<li>admin@approach.com</li>
+								<li>+1 236 512 7117</li>
 								</ul>
 							</div>
 							<div class="col-md-4">
 								<ul class="list-unstyled links">
 								<li><a href="/">Home</a></li>
-								<li><a href="/blog">Blog</a></li>
 								<li><a href="/services">Services</a></li>
 								<li><a href="/about">About Us</a></li>
 								</ul>
@@ -415,9 +412,8 @@ jQuery(document).ready(function ($) {
 							<div class="col-md-4">
 								<ul class="list-unstyled links">
 								<li><a href="/">FAQ</a></li>
-								<li><a href="/blog">Privacy Policy</a></li>
+								<li><a href="/PP">Privacy Policy</a></li>
 								<li><a href="/services">Terms and Conditions </a></li>
-								<li><a href="/about">About Us</a></li>
 								</ul>
 							</div>
 							
